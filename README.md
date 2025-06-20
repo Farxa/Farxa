@@ -1,4 +1,6 @@
-## Hi there 👋
+> “I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don’t like excluding people. I’m a perfectionist, but I won’t let that get in the way of publication. Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact. I try to be friends with everyone, but I hate it when you don’t take me seriously. I don’t hold grudges, it’s not productive, but I learn from my experience. I want to make the world a better place.”
+>
+> — Aaron Swartz
 
 <!--
 **Farxa/Farxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
