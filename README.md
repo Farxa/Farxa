@@ -3,7 +3,7 @@
 > — Aaron Swartz
 >
 > 
-> "I don't know about other people, I'll say it for myself. I don't want to be a slave. I don't want people whom I don't know to decide my fate. I don't want a leash on my neck. I don't want a cage, even if it is a platinum one. I don't want to be rejected or branded. "I don't want to hide what I am thinking. I don't want to bow my head, "and I won't do it. "That's not what I was born for."
+> "I don't know about other people, I'll say it for myself. I don't want to be a slave. I don't want people whom I don't know to decide my fate. I don't want a leash on my neck. I don't want a cage, even if it is a platinum one. I don't want to be rejected or branded. I don't want to hide what I am thinking. I don't want to bow my head, and I won't do it. That's not what I was born for."
 >
 > — Maya Plisetskaya 
 
