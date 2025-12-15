@@ -5,7 +5,26 @@
 > 
 > "I don't know about other people, I'll say it for myself. I don't want to be a slave. I don't want people whom I don't know to decide my fate. I don't want a leash on my neck. I don't want a cage, even if it is a platinum one. I don't want to be rejected or branded. I don't want to hide what I am thinking. I don't want to bow my head, and I won't do it. That's not what I was born for."
 >
-> — Maya Plisetskaya 
+> — Maya Plisetskaya
+
+<!-- ========================= -->
+<!-- COMMUNICATING PALESTINE -->
+<!-- ========================= -->
+
+<p align="center">
+  <a href="https://communicatingpalestine.org" target="_blank">
+    <img
+      src="https://cdn.prod.website-files.com/68b7a404397151114985814c/68c1cc66b4897f5ec89f416e_CP_Logo_FC.svg"
+      alt="Communicating Palestine"
+      width="100%"
+    />
+  </a>
+</p>
+<br/>
+<hr/>
+
+<br/>
+
 
 <!--
 **Farxa/Farxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
