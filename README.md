@@ -24,7 +24,7 @@
 <hr/>
 
 <br/>
-![Profile Picture](./profile.png)
+
 
 
 <!--
